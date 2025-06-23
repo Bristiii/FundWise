@@ -3,7 +3,7 @@ Your smart mutual fund companion. A secure and responsive full-stack web applica
 
 # Author
 Bristi Ghosh
- Aspiring Full Stack Developer
+ <br>Aspiring Full Stack Developer</br>
 
 
 
