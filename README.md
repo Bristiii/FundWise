@@ -5,22 +5,22 @@ Your smart mutual fund companion. A secure and responsive full-stack web applica
 
 A secure and responsive full-stack web application where users can register, log in, search for mutual funds, view fund details, and save their favorite funds to a personalized dashboard.
 
-> 🚀 Built with **React.js**, **Tailwind CSS**, **Node.js**, **Express.js**, and **MongoDB**  
+>  Built with **React.js**, **Tailwind CSS**, **Node.js**, **Express.js**, and **MongoDB**  
 > 🔐 JWT-based authentication  
 > 🔍 Mock API support (ready for [mfapi.in](https://www.mfapi.in))
 
 ---
 
-## ✨ Features
+##  Features
 
-### ✅ Core Functionality
+###  Core Functionality
 - User Registration and Login with JWT Authentication
 - Search Mutual Funds using [mfapi.in](https://www.mfapi.in) (can be extended)
 - Save Mutual Fund details to personal dashboard
 - View all saved funds in a clean UI
 - Optionally remove saved funds
 
-### 💡 Bonus Features
+###  Bonus Features
 - Loading spinners while fetching data
 - Mobile-responsive layout with Tailwind CSS
 - Error handling (e.g., “No results found”)
@@ -28,7 +28,7 @@ A secure and responsive full-stack web application where users can register, log
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Frontend        | Backend         | Database | Auth       |
 |----------------|-----------------|----------|------------|
